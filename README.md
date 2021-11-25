@@ -1,2 +1,2 @@
 # test
-test repository 
+test repository git comand for git repository
